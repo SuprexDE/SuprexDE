@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hallöchen, ich bin Tom 👋
 
-<!--
-**SuprexDE/SuprexDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin 18 Jahre alt und bin Entwickler!
 
-Here are some ideas to get you started:
+### 🔭 Current
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aktuell arbeite ich an 24SUCHT - Ein Minecraft Bedrock Edtion CityBuild Servernetzwerk
+
+### ⚡️ Experience
+
+Ich habe mehr als 3 Jahre Java Erfahrung und zudem 6 Monate Erfahrung in PHP. Zudem habe ich einige Erfahrung gesammelt in der Hosting & Radio Szene.
+
+### 📫 Contact
+
+Falls du geschäftliche Anfragen hast, kannst du mich per Email erreichen: conctact@suprexde.de
+
+Für alles weitere kannst mich auf meinen Discord-Server erreichen: https://discord.gg/Sa3EdQx
